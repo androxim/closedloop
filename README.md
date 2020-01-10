@@ -8,6 +8,10 @@ the system provides with an options for EEG alpha phase analysis and prediction
 
 both in offline mode for testing data sets / methods and in online mode for experimental studies
 
+the system was made and utilized with BrainProducts amplifier (BrainAmp MRplus),
+
+but can be used with any EEG amplifier supporting data transmission via BCI2000 software
+
 ==== hardware requirements ====
 
 for performing an actual stimulation National Instruments DAQ-card 6229/6343 and neuroConn DC-STIMULATOR PLUS
