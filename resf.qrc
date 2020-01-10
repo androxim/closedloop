@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>data/sampdata_Oz_500.dat</file>
+    </qresource>
+</RCC>
