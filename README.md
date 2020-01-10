@@ -12,7 +12,7 @@ both in offline mode for testing data sets / methods and in online mode for expe
 
 for performing an actual stimulation National Instruments DAQ-card 6229/6343 and neuroConn DC-STIMULATOR PLUS
 
-are requiered, for a detailed configuration see file systemconfig.pdf 
+are requiered, for an overview of the system and its configuration see file systemconfig.pdf 
 
 ==== software dependencies ====
 
