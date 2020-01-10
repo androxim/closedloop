@@ -16,6 +16,12 @@ are requiered, for a detailed configuration see file systemconfig.pdf
 
 ==== software dependencies ====
 
+BCI2000 should be installed and configured for data acquisition from EEG amplifier and data transmission 
+
+through TCP/IP protocol (for configuration with a BrainProducts amplifier use file rdaparm.prm)
+
+https://www.bci2000.org/mediawiki/index.php/BCI2000_Binaries
+
 National Instruments software and drivers should be installed
 
 www.ni.com/en-us/support/downloads.html
