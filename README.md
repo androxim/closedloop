@@ -2,7 +2,7 @@
 
 the code for an adaptive (alpha-phase dependent) non-invasive brain stimulation system with alternating currents
 
-the code is written in C++, Qt 5.6.0, compiled with MinGW 4.9.2 32bit
+the code was written in C++, Qt 5.6.0, compiled with MinGW 4.9.2 32bit
 
 the system provides with an options for EEG alpha phase analysis and prediction 
 
