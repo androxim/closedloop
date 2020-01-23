@@ -81,7 +81,7 @@ plotwindow::plotwindow(QWidget *parent) :
     offlinedata=false; addmode=false; addmodeon=false; adaptampl=false; hideardata=true;
     estimpredstim=true; filtereddata=false; correctdelay=true; filterstims=false;
     maxentropy=false; leastsqr=true; regforstim=false; hronarrun=false;
-    phasepr=true; hronar=true; zerocr=true; optstim=false; fftpredict=true; // methods for stimulation
+    phasepr=true; hronar=true; zerocr=true; optstim=true; fftpredict=true; // methods for stimulation
     usefiltering=false; filterardata=false; carfilter=false;
     recurbutter=false; filtfir=false; zerobutter=true; // filters
     applyssd=false; extractingssd=false; imagingafterstim=false;
