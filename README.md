@@ -1,5 +1,7 @@
 # tACS-EEG closed-loop system 
 
+![ClosedLoop app screen](CLscreen.JPG)
+
 the code for an adaptive (alpha-phase dependent) non-invasive brain stimulation system with alternating currents
 
 the code was written in C++, Qt 5.6.0
