@@ -21,7 +21,7 @@ for performing an actual stimulation
  - National Instruments DAQ-card 6229/6343 
  - neuroConn DC-STIMULATOR PLUS
 
-are requiered, for an overview of the system and its configuration see file systemconfig.pdf 
+are required, for an overview of the system and its configuration see file systemconfig.pdf 
 
 ==== software dependencies ====
 
